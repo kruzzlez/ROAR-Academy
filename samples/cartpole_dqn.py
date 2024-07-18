@@ -7,7 +7,7 @@
 # Please make sure to install openAI gym module
 # https://github.com/openai/gym
 import random
-import gym
+import gymnasium as gym
 import os
 import numpy as np
 from collections import deque
